@@ -51,8 +51,6 @@ High-school founder in Houston, Texas (Carnegie Vanguard, class of 2028). I like
 
 - **[Ravioli](https://ravioli.live)** &nbsp;·&nbsp; a prediction market for *subjective* debates, where you trade on how persuasive an argument is. Thousands of beta users across six continents, backed by Microsoft for Startups.
 - **[Axis](https://useaxis.dev)** &nbsp;·&nbsp; an orchestration layer that runs many AI coding agents in parallel over MCP without them conflicting. Open source at **[github.com/VirSanghavi/axis](https://github.com/VirSanghavi/axis)**.
-- **[Arc](https://getarc.pro)** &nbsp;·&nbsp; an agentic swarm that executes arbitrary browser tasks. Won "Most Viral" at the YC Browser-Use hackathon.
-- **[savr](https://savr-alpha.vercel.app)** &nbsp;·&nbsp; phishing and social-engineering detection with machine learning.
 
 ### Open source
 
