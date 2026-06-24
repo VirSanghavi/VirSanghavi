@@ -32,15 +32,15 @@ HTML = """<!doctype html>
   .banner {
     width:760px; background:transparent; color:var(--fg);
     font-family:'Atkinson Hyperlegible',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-    text-align:left; padding:8px;
+    text-align:center; padding:8px;
   }
-  h1 { font-size:56px; font-weight:700; line-height:1.05; letter-spacing:-0.01em; }
+  h1 { font-size:54px; font-weight:700; line-height:1.05; letter-spacing:-0.01em; }
   h1 .at { color:var(--accent); white-space:nowrap; }
-  .wave { display:block; width:340px; height:13px; margin:8px 0 0 2px; color:var(--accent); }
-  .tag { font-size:28px; font-weight:400; margin-top:22px; color:var(--fg); opacity:.9; line-height:1.35; }
+  .wave { display:block; width:330px; height:13px; margin:8px auto 0; color:var(--accent); }
+  .tag { font-size:27px; font-weight:400; margin-top:22px; color:var(--fg); opacity:.9; line-height:1.35; }
   .tag .accent { color:var(--accent); font-weight:700; }
-  .rule { width:104px; height:3px; background:var(--accent); border-radius:2px; margin:28px 0 16px; opacity:.9; }
-  .meta { font-size:21px; color:var(--muted); display:flex; align-items:center; gap:14px; }
+  .rule { width:104px; height:3px; background:var(--accent); border-radius:2px; margin:28px auto 16px; opacity:.9; }
+  .meta { font-size:21px; color:var(--muted); display:flex; align-items:center; justify-content:center; gap:14px; }
   .meta .site { color:var(--accent); font-weight:700; }
   .meta .dot { opacity:.5; }
   .meta .italic { font-style:italic; }
