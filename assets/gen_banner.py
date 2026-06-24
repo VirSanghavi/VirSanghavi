@@ -53,8 +53,6 @@ HTML = """<!doctype html>
       <path d="M2 8 Q 18 1, 34 8 T 66 8 T 98 8 T 130 8 T 162 8 T 194 8 T 226 8 T 258 8 T 290 8 T 322 8 T 338 8"/>
     </svg>
     <div class="tag">CTO @ <span class="accent">Ravioli</span>, building a prediction market for subjective questions.</div>
-    <div class="rule"></div>
-    <div class="meta"><span class="site">virsanghavi.com</span><span class="dot">&bull;</span><span class="italic">building &amp; writing in public</span></div>
   </div>
 <script>
   document.documentElement.setAttribute('data-theme', location.hash.replace('#','') || 'light');

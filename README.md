@@ -8,8 +8,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
-  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero-light.png" width="660">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero2-dark.png">
+  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero2-light.png" width="660">
 </picture>
 
 <p>
@@ -83,7 +83,3 @@ Drawn to frontier machines: rockets, markets, and AI models. Curious about AI al
 - **[What Getting Rejected from YC Twice Actually Feels Like](https://virsanghavi.com/posts/yc-rejection-and-building-stronger.html)** &nbsp;·&nbsp; *16 Feb 2026 · 6 min*
 
 **[Read all posts →](https://virsanghavi.com/posts.html)**
-
----
-
-<div align="center"><sub><a href="https://virsanghavi.com">virsanghavi.com</a> &nbsp;·&nbsp; building &amp; writing in public</sub></div>
