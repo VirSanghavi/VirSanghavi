@@ -9,7 +9,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/banner-light.png" width="740">
+  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/banner-light.png" width="660">
 </picture>
 
 <p>
@@ -43,6 +43,8 @@ High-school founder in Houston, Texas (Carnegie Vanguard, class of 2028). I like
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-006cac?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-006cac?style=flat-square&logo=redis&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-006cac?style=flat-square&logo=vercel&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-006cac?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1TDEzLjIzIDIuN3oiLz48L3N2Zz4%3D&logoColor=white">
+  <img alt="Azure AI Foundry" src="https://img.shields.io/badge/Azure%20AI%20Foundry-006cac?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1TDEzLjIzIDIuN3oiLz48L3N2Zz4%3D&logoColor=white">
 </p>
 
 ---
