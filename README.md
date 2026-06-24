@@ -8,10 +8,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero2-dark.png">
-  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero2-light.png" width="660">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero3-dark.png">
+  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero3-light.png" width="660">
 </picture>
-
 <p>
   <a href="https://virsanghavi.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/website-dark.svg"><img height="24" alt="Website" src="./assets/website-light.svg"></picture></a>
   &ensp;
