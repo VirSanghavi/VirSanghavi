@@ -2,7 +2,7 @@
   Profile README for @VirSanghavi — designed to match virsanghavi.com
   Palette:  light #006cac on #fdfdfd   ·   dark #4ade80 on #050505
   Type:     Atkinson Hyperlegible (rendered into the banner image)
-  Theme-aware via <picture> + #gh-*-mode-only. Banner source: assets/gen_banner.py
+  Theme-aware via <picture> + prefers-color-scheme. Banner source: assets/gen_banner.py
 -->
 
 <div align="center">
@@ -13,19 +13,19 @@
 </picture>
 
 <p>
-  <a href="https://virsanghavi.com" title="Website"><img height="25" alt="Website" src="./assets/website-light.svg#gh-light-mode-only"><img height="25" alt="Website" src="./assets/website-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://virsanghavi.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/website-dark.svg"><img height="24" alt="Website" src="./assets/website-light.svg"></picture></a>
   &ensp;
-  <a href="https://github.com/VirSanghavi" title="GitHub"><img height="25" alt="GitHub" src="./assets/github-light.svg#gh-light-mode-only"><img height="25" alt="GitHub" src="./assets/github-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://github.com/VirSanghavi" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg"><img height="24" alt="GitHub" src="./assets/github-light.svg"></picture></a>
   &ensp;
-  <a href="https://x.com/virsanghavi13" title="X"><img height="25" alt="X" src="./assets/x-light.svg#gh-light-mode-only"><img height="25" alt="X" src="./assets/x-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://x.com/virsanghavi13" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/x-dark.svg"><img height="24" alt="X" src="./assets/x-light.svg"></picture></a>
   &ensp;
-  <a href="https://linkedin.com/in/vir-sanghavi" title="LinkedIn"><img height="25" alt="LinkedIn" src="./assets/linkedin-light.svg#gh-light-mode-only"><img height="25" alt="LinkedIn" src="./assets/linkedin-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://linkedin.com/in/vir-sanghavi" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg"><img height="24" alt="LinkedIn" src="./assets/linkedin-light.svg"></picture></a>
   &ensp;
-  <a href="https://instagram.com/vir.sanghavi13" title="Instagram"><img height="25" alt="Instagram" src="./assets/instagram-light.svg#gh-light-mode-only"><img height="25" alt="Instagram" src="./assets/instagram-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://instagram.com/vir.sanghavi13" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/instagram-dark.svg"><img height="24" alt="Instagram" src="./assets/instagram-light.svg"></picture></a>
   &ensp;
-  <a href="mailto:Virrsanghavi@gmail.com" title="Email"><img height="25" alt="Email" src="./assets/email-light.svg#gh-light-mode-only"><img height="25" alt="Email" src="./assets/email-dark.svg#gh-dark-mode-only"></a>
+  <a href="mailto:Virrsanghavi@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg"><img height="24" alt="Email" src="./assets/email-light.svg"></picture></a>
   &ensp;
-  <a href="https://virsanghavi.com/Vir-Sanghavi-Resume.pdf" title="Résumé"><img height="25" alt="Résumé" src="./assets/resume-light.svg#gh-light-mode-only"><img height="25" alt="Résumé" src="./assets/resume-dark.svg#gh-dark-mode-only"></a>
+  <a href="https://virsanghavi.com/Vir-Sanghavi-Resume.pdf" title="Résumé"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/resume-dark.svg"><img height="24" alt="Résumé" src="./assets/resume-light.svg"></picture></a>
 </p>
 
 </div>
@@ -87,13 +87,13 @@ High-school founder out of Houston, Texas. I build AI products fast and write ab
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VirSanghavi&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=4ade80&icon_color=4ade80&text_color=eaedf3&bg_color=050505&border_color=166534">
-  <img alt="Vir's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=VirSanghavi&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=006cac&icon_color=006cac&text_color=282728&bg_color=fdfdfd&border_color=ece9e9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VirSanghavi&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=4ade80&icon_color=4ade80&text_color=eaedf3&bg_color=050505&border_color=166534&disable_animations=true">
+  <img alt="Vir's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=VirSanghavi&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=006cac&icon_color=006cac&text_color=282728&bg_color=fdfdfd&border_color=ece9e9&disable_animations=true">
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VirSanghavi&layout=compact&hide_border=false&langs_count=8&title_color=4ade80&text_color=eaedf3&bg_color=050505&border_color=166534">
-  <img alt="Vir's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirSanghavi&layout=compact&hide_border=false&langs_count=8&title_color=006cac&text_color=282728&bg_color=fdfdfd&border_color=ece9e9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VirSanghavi&layout=compact&hide_border=false&langs_count=8&title_color=4ade80&text_color=eaedf3&bg_color=050505&border_color=166534&disable_animations=true">
+  <img alt="Vir's top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirSanghavi&layout=compact&hide_border=false&langs_count=8&title_color=006cac&text_color=282728&bg_color=fdfdfd&border_color=ece9e9&disable_animations=true">
 </picture>
 
 </div>
