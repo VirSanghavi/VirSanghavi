@@ -8,8 +8,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/banner-light.png" width="660">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero-light.png" width="660">
 </picture>
 
 <p>

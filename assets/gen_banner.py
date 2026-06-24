@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Regenerate the hero banner (banner-light.png / banner-dark.png).
+Regenerate the hero banner (hero-light.png / hero-dark.png).
 
   python3 gen_banner.py            # writes banner.html
   # then render both themes with headless Chrome (transparent background):
@@ -8,7 +8,7 @@ Regenerate the hero banner (banner-light.png / banner-dark.png).
   for t in light dark; do "$CHROME" --headless=new --disable-gpu --hide-scrollbars \
     --force-device-scale-factor=2 --default-background-color=00000000 \
     --virtual-time-budget=3500 --window-size=1000,460 \
-    --screenshot=banner-$t.png "file://$PWD/banner.html#$t"; done
+    --screenshot=hero-$t.png "file://$PWD/banner.html#$t"; done
   # then trim transparent margins (getbbox) before committing.
 
 Palette mirrors virsanghavi.com:  light #006cac on #fdfdfd  ·  dark #4ade80 on #050505
