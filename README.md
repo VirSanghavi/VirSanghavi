@@ -9,7 +9,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero3-dark.png">
-  <img alt="Hi, I'm @virsanghavi. CTO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero3-light.png" width="660">
+  <img alt="Hi, I'm @virsanghavi. CEO @ Ravioli, building a prediction market for subjective questions." src="./assets/hero3-light.png" width="660">
 </picture>
 <p>
   <a href="https://virsanghavi.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/website-dark.svg"><img height="24" alt="Website" src="./assets/website-light.svg"></picture></a>
@@ -29,7 +29,7 @@
 
 </div>
 
-High-school founder in Houston, Texas (Carnegie Vanguard, class of 2028). I like building things that matter at scale: markets, AI systems, and the occasional rocket. Right now I'm CTO and co-founder of **[Ravioli](https://ravioli.live)**, and I move fast and ship to real users.
+High-school founder in Houston, Texas (Carnegie Vanguard, class of 2028). I like building things that matter at scale: markets, AI systems, and the occasional rocket. Right now I'm CEO and co-founder of **[Ravioli](https://ravioli.live)**, and I move fast and ship to real users.
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-006cac?style=flat-square&logo=python&logoColor=white">
@@ -50,7 +50,10 @@ High-school founder in Houston, Texas (Carnegie Vanguard, class of 2028). I like
 
 ### What I'm building
 
-- **[Ravioli](https://ravioli.live)** &nbsp;·&nbsp; a prediction market for *subjective* debates, where you trade on how persuasive an argument is. Thousands of beta users across six continents, backed by Microsoft for Startups.
+- **[Ravioli](https://ravioli.live)** &nbsp;·&nbsp; a *free-to-play* Kalshi alternative, with real prizes.
+
+### Fun projects: 
+
 - **[Axis](https://useaxis.dev)** &nbsp;·&nbsp; an orchestration layer that runs many AI coding agents in parallel over MCP without them conflicting. Open source at **[github.com/VirSanghavi/axis](https://github.com/VirSanghavi/axis)**.
 
 ### Open source
